@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ryan Harvey
 
-<!--
-**ryanharvey-analytics/ryanharvey-analytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Applied analytics professional transitioning into data science.  
+Background in municipal finance, policy analysis, and executive-level reporting, 
+currently pursuing an M.S. in Data Science (expected March, 2026).
 
-Here are some ideas to get you started:
+## Focus Areas
+- Applied data analysis and visualization
+- Public sector analytics
+- Reproducible reporting with R and Quarto
+- Statistical learning and exploratory modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+R • Python • SQL • Excel • Tableau • Git
+
+## Featured Projects
+(coming soon)
