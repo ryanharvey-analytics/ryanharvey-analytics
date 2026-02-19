@@ -1,6 +1,6 @@
 # Ryan Harvey
 
-Applied analytics professional transitioning into data science.  
+Applied analytics professional focused on machine learning and public sector data science.
 Background in municipal finance, policy analysis, and executive-level reporting, 
 currently pursuing an M.S. in Data Science (expected March, 2026).
 
